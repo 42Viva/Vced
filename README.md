@@ -14,7 +14,6 @@ VCED 可以通过你的文字描述来自动识别视频中相符合的片段进
 
 如果你喜欢本项目欢迎给一个 **⭐ !**
 
-
 ----------------------------------------
 
 [QuickStart](https://github.com/42viva/Vced#quickstart) - [项目结构](https://github.com/42viva/Vced#项目结构) - [文档](https://github.com/42viva/Vced#文档)
