@@ -7,14 +7,6 @@
   <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/python-3.9.x-brightgreen.svg" alt="Python supported"></a>
   <a href="https://linklearner.com/"><img src="https://img.shields.io/website?url=https%3A%2F%2Flinklearner.com%2F%23%2F" alt="DataWhale Website"></a>
 
-  <h3 align="center">
-    <a href="https://linklearner.com/">Datawhale Website</a>
-    <br/>
-    <a href="https://linklearner.com/">Docs</a>
-    <span> | </span>
-    <a href="https://github.com/datawhalechina/vced#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE">Contribute</a>
-  </h3>
-
 </div>
 
 ----------------------------------------
@@ -22,9 +14,10 @@ VCED 可以通过你的文字描述来自动识别视频中相符合的片段进
 
 如果你喜欢本项目欢迎给一个 **⭐ !**
 
+
 ----------------------------------------
 
-[QuickStart](https://github.com/datawhalechina/vced#quickstart) - [项目结构](https://github.com/datawhalechina/vced#%E6%96%87%E6%A1%A3) - [文档](https://github.com/datawhalechina/vced#%E6%96%87%E6%A1%A3) - [Learning Roadmap](https://github.com/SuperSupeng/vced/blob/4387bbeaf7c66cf03532ef64617a8877481dad0d/Roadmap.md) - [反馈](https://github.com/datawhalechina/vced#%E5%8F%8D%E9%A6%88) - [参与贡献](https://github.com/datawhalechina/vced#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE) - [关注我们](https://github.com/datawhalechina/vced#%E5%85%B3%E6%B3%A8%E6%88%91%E4%BB%AC) - [License](https://github.com/datawhalechina/vced#license)
+[QuickStart](https://github.com/42viva/Vced#quickstart) - [项目结构](https://github.com/42viva/Vced#项目结构) - [文档](https://github.com/42viva/Vced#文档)
 
 ----------------------------
 
