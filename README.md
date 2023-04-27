@@ -36,7 +36,7 @@ VCED 可以通过你的文字描述来自动识别视频中相符合的片段进
 ``` bash
 # 拉取项目
 cd ~
-git clone https://github.com/kainstan/vced.git
+git clone https://github.com/42Viva/Vced.git
 # 进入项目目录
 cd ~/vced
 # 通过shell脚本启动
@@ -68,7 +68,7 @@ cd ~/vced
 ```
 # 拉取项目
 cd ~
-git clone https://github.com/kainstan/vced.git
+git clone https://github.com/42Viva/Vced.git
 # 进入项目目录
 cd ~/vced
 # 通过shell脚本启动
@@ -136,54 +136,17 @@ make html
 然后就可以在`public`文件夹下双击`index.html`即可看到文档，如下所示
 ![homepage](./pics/homepage.png)
 
-## Learning Roadmap
-
-内容学习路线详见：[Roadmap](https://github.com/datawhalechina/vced/blob/main/Roadmap.md)
-
-## 反馈
-
-- 如果你发现任何问题，请提交 [Issue](https://github.com/datawhalechina/vced/issues).
-
-## 参与贡献
-
-- 如果你想参与到项目中来欢迎查看项目的 [Issue](https://github.com/datawhalechina/vced/issues) 查看没有被分配的任务并提交 PR
-
-如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC/blob/42a36137ca9a2310459fcaaf7012ac16e8c7039f/CONTRIBUTING.md)。
-
-### 当前贡献者
-
-| 姓名 | 职责 | 简介 |
-| :----| :---- | :---- |
-| [苏鹏](https://github.com/SuperSupeng) | 项目负责人 | [https://linktr.ee/subranium](https://linktr.ee/subranium) |
-| [十一](https://github.com/sshimii) | Jina 教程内容贡献者 | [Github]((https://github.com/sshimii)) |
-| [席颖](https://github.com/xiying-boy) | Jina 教程内容贡献者 | [Github](https://github.com/xiying-boy) |
-| [范致远](https://github.com/Elvisambition) | 跨模态模型教程内容贡献者 | [Github](https://github.com/Elvisambition) |
-| [崔腾松](https://github.com/2951121599) | 项目后端教程内容贡献者 | [CSDN](https://blog.csdn.net/liluo_2951121599) |
-| [韩颐堃](https://github.com/YikunHan42) |项目后端教程内容贡献者 | [Homepage](https://yikunhan.me/) |
-| [吴祥](https://github.com/zadarmo) | 项目前端教程内容贡献者 | [CSDN](https://blog.csdn.net/destiny_balabala) |
-| [边圣陶](https://github.com/Richard-Bian) | Docker 部署教程内容贡献者 | [https://www.bianst.cn](https://www.bianst.cn) |
-
-<a href="https://github.com/datawhalechina/vced/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=datawhalechina/vced" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
 
 ### 特别感谢
 
 特别感谢以下项目与作者，其中 B 站 UP 主[人工智能小黄鸭](https://space.bilibili.com/15516023)给本项目提供了灵感，而且本项目的基础代码来自于 [ArthurKing01](https://github.com/ArthurKing01)。
 - [ArthurKing01/jina-clip](https://github.com/ArthurKing01/jina-clip)
 - [输入关键词就能自动剪视频？我写了一个AI视频搜剪神器？](https://www.bilibili.com/video/BV1n3411u7tJ?vd_source=d3a0e6f272cb4afd9c79cf807eefb3a4)
+- [China DataWhale VCED:VCED: Video Clip Extraction by description](https://github.com/datawhalechina/vced)
 - [Jina AI](https://jina.ai/)
 - [Streamlit](https://streamlit.io/)
 
 再次感谢以上项目与作者，同时感谢 Jina AI 对本项目的支持，Jina AI 是一家神经搜索公司，致力于帮助企业和开发者轻松搭建多模态、跨模态应用。
-
-## 关注我们
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
-</div>
 
 ## License
 
